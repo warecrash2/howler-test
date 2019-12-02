@@ -2,6 +2,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hack the Planet!")
+	fmt.Println("Hack the planet!!")
 }
 
